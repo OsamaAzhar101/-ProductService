@@ -1,8 +1,8 @@
-package com.dailycodebuffer.ProductService.controller;
+package com.oasys.ProductService.controller;
 
-import com.dailycodebuffer.ProductService.model.ProductRequest;
-import com.dailycodebuffer.ProductService.model.ProductResponse;
-import com.dailycodebuffer.ProductService.service.ProductService;
+import com.oasys.ProductService.model.ProductRequest;
+import com.oasys.ProductService.model.ProductResponse;
+import com.oasys.ProductService.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

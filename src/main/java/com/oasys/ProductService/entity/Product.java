@@ -1,4 +1,4 @@
-package com.dailycodebuffer.ProductService.entity;
+package com.oasys.ProductService.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

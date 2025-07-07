@@ -1,7 +1,7 @@
-package com.dailycodebuffer.ProductService.service;
+package com.oasys.ProductService.service;
 
-import com.dailycodebuffer.ProductService.model.ProductRequest;
-import com.dailycodebuffer.ProductService.model.ProductResponse;
+import com.oasys.ProductService.model.ProductRequest;
+import com.oasys.ProductService.model.ProductResponse;
 
 public interface ProductService {
     long addProduct(ProductRequest productRequest);

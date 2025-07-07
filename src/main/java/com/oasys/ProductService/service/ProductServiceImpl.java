@@ -1,12 +1,11 @@
-package com.dailycodebuffer.ProductService.service;
+package com.oasys.ProductService.service;
 
-import com.dailycodebuffer.ProductService.entity.Product;
-import com.dailycodebuffer.ProductService.exception.ProductServiceCustomException;
-import com.dailycodebuffer.ProductService.model.ProductRequest;
-import com.dailycodebuffer.ProductService.model.ProductResponse;
-import com.dailycodebuffer.ProductService.repository.ProductRepository;
+import com.oasys.ProductService.entity.Product;
+import com.oasys.ProductService.exception.ProductServiceCustomException;
+import com.oasys.ProductService.model.ProductRequest;
+import com.oasys.ProductService.model.ProductResponse;
+import com.oasys.ProductService.repository.ProductRepository;
 import lombok.extern.log4j.Log4j2;
-import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

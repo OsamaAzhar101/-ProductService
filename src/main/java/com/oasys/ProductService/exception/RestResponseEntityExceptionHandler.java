@@ -1,6 +1,6 @@
-package com.dailycodebuffer.ProductService.exception;
+package com.oasys.ProductService.exception;
 
-import com.dailycodebuffer.ProductService.model.ErrorResponse;
+import com.oasys.ProductService.model.ErrorResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

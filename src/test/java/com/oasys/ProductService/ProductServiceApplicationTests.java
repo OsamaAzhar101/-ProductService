@@ -1,4 +1,4 @@
-package com.dailycodebuffer.ProductService;
+package com.oasys.ProductService;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

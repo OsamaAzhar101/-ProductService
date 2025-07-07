@@ -1,4 +1,4 @@
-package com.dailycodebuffer.ProductService.exception;
+package com.oasys.ProductService.exception;
 
 import lombok.Data;
 
